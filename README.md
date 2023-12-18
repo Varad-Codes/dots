@@ -1,3 +1,5 @@
+My version of Hyprdots with my own configs and more things
+
 ###### *<div align = right><sub>// design by t2</sub></div>*
 <div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyprdots_banner.png"><br><br>
 
